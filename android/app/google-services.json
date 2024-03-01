@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "899688869001",
+    "project_id": "hapsyncchat-2a99f",
+    "storage_bucket": "hapsyncchat-2a99f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899688869001:android:8a25f2c35593256a14ea58",
+        "android_client_info": {
+          "package_name": "com.hapsync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899688869001-p767l1me37298sgcefvhav7mk24sh1gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOqgJ4bWaXo5hcE-SaCTWR7ghKTBvQ9LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899688869001-p767l1me37298sgcefvhav7mk24sh1gh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "899688869001-md18ieqt57t4rjh19nkvke7sj1mhn677.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hapsync"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
